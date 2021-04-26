@@ -1,0 +1,16 @@
+@keyframes label {
+    0% {
+      transform: rotateZ(0);
+    }
+    100% {
+      transform: rotateZ(180deg);
+    }
+  }
+  
+  .big {
+    animation: label 1s ease-in-out infinite;
+    }
+  
+  }
+  
+  
